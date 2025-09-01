@@ -1,2 +1,1 @@
-# KODE-OTP-OPS
-generate OTP Dapodik
+Kamu bisa langsung coba di: https://Operatorbukals.github.io/KODE-OTP-OPS
